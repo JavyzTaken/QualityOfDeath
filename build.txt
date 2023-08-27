@@ -1,0 +1,3 @@
+displayName = Fargo's Quality of Death Mod
+author = Javyz, shardion
+version = 0.1
