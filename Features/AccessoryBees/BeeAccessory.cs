@@ -1,7 +1,7 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace QualityOfDeath
+namespace QualityOfDeath.Features.AccessoryBees
 {
     public class BeeAccessory : ModItem
     {
