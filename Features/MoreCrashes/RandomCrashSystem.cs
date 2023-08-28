@@ -7,7 +7,7 @@ namespace QualityOfDeath.Features.MoreCrashes
     public class RandomCrashSystem : ModSystem
     {
         private int _timer;
-        private Random _crashRng = new();
+        private readonly Random _crashRng = new();
 
         public override void PostUpdateEverything()
         {
